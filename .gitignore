@@ -1,0 +1,8 @@
+.gradle
+.DS_Store
+/captures
+.externalNativeBuild
+.cxx
+/.idea
+build/
+*.class
